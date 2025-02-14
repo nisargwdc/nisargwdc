@@ -27,4 +27,31 @@ My journey into **Business Intelligence and Product Management** has been fueled
 - BI Tools: ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
 - Cloud Platforms: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws&logoColor=yellow) ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat&logo=snowflake&logoColor=white)
 
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/400" alt="Project 1" width="100%"/>
+    </td>
+    <td>
+      <h3>Project Name 1</h3>
+      <p>Brief description of Project 1.</p>
+      <a href="#">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/400" alt="Project 2" width="100%"/>
+    </td>
+    <td>
+      <h3>Project Name 2</h3>
+      <p>Brief description of Project 2.</p>
+      <a href="#">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
 📌 *Always eager to collaborate and explore new opportunities in Business Intelligence, Data Analytics, and Product Management!*
