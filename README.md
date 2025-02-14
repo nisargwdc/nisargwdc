@@ -1,49 +1,33 @@
-<h1 align="center">Hi there, I'm Nisarg Kahane! 👋</h1>
+# Hello, I'm [Your Name]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NisargKahane&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NisargKahane&theme=radical" width="48%" alt="GitHub Streak"/>
-</p>
+I'm a [Your Profession] with expertise in [Your Expertise Areas]. Currently, I'm [Your Current Endeavor]. I'm passionate about [Your Passions].
 
-### 🚀 About Me
-- 🎓 **Executive MBA** in *New Product Management & Data Analytics*
-- 💼 **Business Intelligence Engineer | Product Manager**
-- 💡 Passionate about **Data Analytics, Product Development, and Business Intelligence**
-- 🎲 Board game enthusiast
-- 📍 Based in **Chicago, IL**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/)
+[![Medium](https://img.shields.io/badge/-Medium-white?style=flat&logo=medium&logoColor=black)](https://medium.com/@yourusername)
+[![Datacamp](https://img.shields.io/badge/-Datacamp-lightgreen?style=flat&logo=datacamp&logoColor=white)](https://www.datacamp.com/profile/yourusername)
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</p>
+**About Me**
 
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargKahane&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
-</p>
+My journey into [Your Field] has been fueled by [Your Motivations]. With a strong foundation in [Your Skills], I have worked on [Your Experience Highlights].
 
-### 🔥 Recent Projects
-- **[Project Alpha](#)** – *AI-driven analytics tool for business forecasting.*
-- **[Project Beta](#)** – *Data pipeline automation for market research.*
-- **[Project Gamma](#)** – *Dashboard for real-time KPI tracking.*
+**Key Areas of Expertise**:
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nisargkahane/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/NisargKahane/">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+- Programming Languages: `Python`, `R`, `SQL`
+- Machine Learning Frameworks: `Scikit-Learn`, `TensorFlow`, `PyTorch`
+- Cloud and Databases: `AWS`, `Google GCP`, `Microsoft Azure`, `MySQL`, `MongoDB`
+- Data Visualization Tools: `Tableau`, `PowerBI`, `Matplotlib`, `Seaborn`
+- AI Prowess: `Large Language Models (LLMs)`, `Generative AI`, `Transformers`, `HuggingFace`
 
----
+**GitHub Stats**
 
-📌 *Always eager to collaborate and explore new opportunities in BI and Product Analytics!*
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+**Technologies & Tools I Use**
+
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sqlite&logoColor=white)
+- Machine Learning Frameworks: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-gray?style=flat&logo=tensorflow&logoColor=orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-gray?style=flat&logo=pytorch&logoColor=red)
+- Cloud Platforms: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws&logoColor=yellow) ![GCP](https://img.shields.io/badge/-GCP-gray?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
+- Data Visualization: ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi&logoColor=black)
+
+*Always eager to collaborate and explore new opportunities in [Your Field]!*
