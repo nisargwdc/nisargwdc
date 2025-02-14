@@ -1,52 +1,30 @@
-<h1 align="center">Hi there, I'm Nisarg Kahane! 👋</h1>
+# Hello, I'm Nisarg Kahane!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NisargKahane&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NisargKahane&theme=radical" width="48%" alt="GitHub Streak"/>
-</p>
+I'm a **Business Intelligence Engineer | Product Manager** with expertise in **Data Analytics, Product Development, and Business Intelligence**. Currently, I'm pursuing an **Executive MBA in New Product Management & Data Analytics**. I'm passionate about **solving complex business problems with data-driven insights and innovative product solutions**.
 
-### 🚀 About Me
-- 🎓 **Executive MBA** in *New Product Management & Data Analytics*
-- 💼 **Business Intelligence Engineer | Product Manager**
-- 💡 Passionate about **Data Analytics, Product Development, and Business Intelligence**
-- 🎲 Board game enthusiast
-- 📍 Based in **Chicago, IL**
-- 🌟 **Founder of We Design Code** (2013-2019) - Served 85+ clients with 250+ projects
-- 💰 Helped close **$3M ARR** in new business opportunities within a year
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nisargkahane/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/NisargKahane/)
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white"/>
-</p>
+**About Me**
 
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargKahane&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
-</p>
+My journey into **Business Intelligence and Product Management** has been fueled by a deep passion for analytics and strategic decision-making. With a strong foundation in **data analysis, visualization, and automation**, I have worked on projects that enhance operational efficiency and business growth.
 
-### 🔥 Recent Projects
-- **[AI-Driven Forecasting Model](#)** – *Built a predictive analytics tool for revenue forecasting.*
-- **[BI Dashboard Suite](#)** – *Developed an interactive Power BI dashboard for sales insights.*
-- **[Data Automation Pipeline](#)** – *Automated ETL processes for real-time data integration.*
+**Key Areas of Expertise**:
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nisargkahane/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/NisargKahane/">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+- Programming Languages: `Python`, `SQL`
+- Business Intelligence Tools: `Power BI`, `Tableau`, `Looker`
+- Cloud & Databases: `AWS`, `Azure`, `Snowflake`, `PostgreSQL`
+- Product & Data Analytics: `A/B Testing`, `Market Analysis`, `Forecasting`
+- Agile & Project Management: `JIRA`, `Scrum`, `Kanban`
 
----
+**GitHub Stats**
 
-📌 *Always eager to collaborate and explore new opportunities in BI, Data Analytics, and Product Management!*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NisargKahane&show_icons=true&theme=radical)
+
+**Technologies & Tools I Use**
+
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sqlite&logoColor=white)
+- BI Tools: ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
+- Cloud Platforms: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws&logoColor=yellow) ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat&logo=snowflake&logoColor=white)
+
+📌 *Always eager to collaborate and explore new opportunities in Business Intelligence, Data Analytics, and Product Management!*
