@@ -3,7 +3,7 @@
 I'm a **Business Intelligence Engineer | Product Manager** with expertise in **Data Analytics, Product Development, and Business Intelligence**. Currently, I'm pursuing an **Executive MBA in New Product Management & Data Analytics**. I'm passionate about **solving complex business problems with data-driven insights and innovative product solutions**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nisargkahane/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/NisargKahane/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/nisargwdc/)
 
 **About Me**
 
