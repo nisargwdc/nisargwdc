@@ -38,7 +38,8 @@ Currently, I’m pursuing an **Executive MBA in New Product Management & Data 
 
 ## ️ Technologies & Tools I Use
 
-- **Programming & Scripting:**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL--SQL-08457E?style=for-the-badge&logo=oracle&logoColor=white)
+- **Programming & Scripting:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL--SQL-08457E?style=for-the-badge&logo=oracle&logoColor=white)
 
 - **BI & ETL:**  
   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-26478C?style=for-the-badge&logo=alteryx&logoColor=white) ![Talend](https://img.shields.io/badge/Talend-0073C7?style=for-the-badge&logo=talend&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-0078D6?style=for-the-badge&logo=microsoft-sql-server-integration-services&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
