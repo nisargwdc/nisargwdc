@@ -61,7 +61,6 @@ Currently, I’m pursuing an **Executive MBA in New Product Management & Data 
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|
 | Transportation Spend Management Application   | Built ETL workflows in Alteryx and visualized spending trends in Power BI, improving data accuracy by 40 %.         | Alteryx, Power BI, SQL                              | [Repo](https://github.com/Nisargwdc/transportation-spend-management)      |
 | Serverless Data Pipeline to Snowflake         | Engineered AWS Lambda functions and Step Functions for automated data ingestion into Snowflake, enhancing scalability. | AWS Lambda, Step Functions, Snowflake, Python       | [Repo](https://github.com/Nisargwdc/serverless-data-pipeline)             |
-| We Design Code Consultancy Website & CRM Setup | Co‑founded a tech consulting firm; developed responsive website and implemented Zoho CRM integrations for 7 clients. | HTML, CSS, JavaScript, Zoho CRM                     | [Repo](https://github.com/Nisargwdc/wedesigncode-website)                 |
 
 ---
 
